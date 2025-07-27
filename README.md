@@ -1,5 +1,7 @@
 # testrepo
 
+Theses are the step that get you to creating and testing your first repo. 
+
 //Creating a Repository on GitHub: Step-by-Step Guide
 <!--This guide provides simple steps to create a new repository on GitHub.-->
 
